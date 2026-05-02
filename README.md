@@ -3,8 +3,8 @@
 
 Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos casos contemporáneos de hibridación siguiendo las aportaciones de Lev Manovich.
 
-Autor: Alejandro García Membiela
-Fecha: Mayo 2026
+- Autor: Alejandro García Membiela
+- Fecha: Mayo 2026
 
 # Caso 1: Suno AI — Hibridación Algorítmica y Metacreación
 
