@@ -3,7 +3,7 @@
 
 Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos casos contemporáneos de hibridación siguiendo las aportaciones de Lev Manovich.
 
-- Autor: Alejandro García Membiela
+- Autor: 
 - Fecha: Mayo 2026
 
 # Caso 1: Suno AI — Hibridación Algorítmica y Metacreación
@@ -42,6 +42,20 @@ Aquí la hibridación no es estética, sino estructural: los medios se mezclan a
 ## 5. La mutación del autor
 
 La transcodificación afecta al propio rol del creador. El músico deja de ser ejecutante para convertirse en diseñador de instrucciones. La autoría se hibrida: parte humana, parte algorítmica. El software no solo «toma el mando», sino que redefine qué significa crear música en la cultura digital contemporánea. Por todo ello, Suno AI es un caso paradigmático de hibridación moderna y un candidato evidente para una hipotética nueva edición de El software toma el mando.
+
+## Evidencias complementarias
+
+Además del análisis teórico de Suno AI, se ha generado una evidencia práctica que permite observar de forma directa cómo el sistema opera cuando se le exige una hibridación extrema de estilos musicales. Esta evidencia incluye:
+
+- El prompt completo utilizado.
+- Las iteraciones del proceso.
+- La letra diseñada como artefacto híbrido.
+- Las capturas del pipeline generativo.
+- El archivo de audio final.
+
+Todo el material se encuentra documentado en:
+
+`/evidencias/estudio_hibridacion_musical_IA.md`
 
 # CASO 2 — SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
 
