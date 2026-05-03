@@ -199,7 +199,16 @@ Cada regeneración produce una versión distinta. No hay dos iguales.
 El sistema toma decisiones estilísticas que yo no he especificado.
 Esto es clave: la IA no ejecuta, interpreta.
 
-## 7. Conclusión
+## 7. Archivo de audio generado
+
+La versión final de la pieza generada con Suno puede escucharse aquí:
+
+🔊 suno_version_final.mp3
+
+El archivo se encuentra en la carpeta `/evidencias/` del repositorio.
+
+
+## 8. Conclusión
 
 El resultado final no es una canción, sino una demostración empírica de cómo un sistema generativo contemporáneo opera en la intersección entre cultura y computación.
 
