@@ -29,9 +29,9 @@ Cada módulo actúa como una unidad autónoma dentro del pipeline generativo. Es
 
 El principio de automatización es evidente: Suno asume tareas que antes requerían músicos, productores y técnicos. Pero lo decisivo es la variabilidad. Cada prompt genera múltiples versiones posibles, y cada regeneración altera parámetros melódicos, tímbricos o rítmicos. No existe una «obra definitiva», sino un espacio de posibilidades donde el usuario selecciona, itera y refina. La creación se convierte en un proceso de curaduría algorítmica: el usuario no compone en sentido clásico, sino que navega entre variantes generadas por el sistema.
 
-##  4. Deep Remixability: la pérdida de fronteras
+##  4. Remezclabilidad profunda: la pérdida de fronteras
 
-Suno encarna la «Deep Remixability» descrita por Manovich:
+Suno encarna la «Remezclabilidad profunda» descrita por Manovich:
 
 - Una interfaz textual —propia del procesamiento de palabras— se convierte en un estudio de grabación virtual.
 - Estilos incompatibles en el mundo físico (jazz + metal, ópera + trap) se combinan mediante cálculo matemático.
