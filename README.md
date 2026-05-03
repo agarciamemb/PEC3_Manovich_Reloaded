@@ -55,7 +55,7 @@ Además del análisis teórico de Suno AI, se ha generado una evidencia práctic
 
 Todo el material se encuentra documentado en:
 
-`/evidencias/estudio_hibridacion_musical_IA.md`
+🔗 [/evidencias/estudio_hibridacion_musical_IA.md](./evidencias/estudio_hibridacion_musical_IA.md)
 
 # CASO 2 — SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
 
