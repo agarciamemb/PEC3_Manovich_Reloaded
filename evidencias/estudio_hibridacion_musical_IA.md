@@ -3,7 +3,7 @@
 ## 1. Propósito de la evidencia
 Esta evidencia no busca «hacer una canción bonita»; el objetivo es otro: poner a prueba los límites del medio digital y observar cómo un sistema generativo contemporáneo responde cuando se le exige mezclar estilos musicales históricamente incompatibles.
 
-La pieza final funciona como un experimento controlado donde puedo ver, casi en tiempo real, cómo se manifiestan los principios de Manovich: modularidad, variabilidad, automatización, transcodificación cultural y deep remixability.
+La pieza final funciona como un experimento controlado donde puedo ver, casi en tiempo real, cómo se manifiestan los principios de Manovich: modularidad, variabilidad, automatización, transcodificación cultural y remezclabilidad profunda.
 
 Insisto, no es una canción: es un caso de estudio.
 
@@ -182,7 +182,7 @@ Las canciones generadas muestran exactamente lo que buscaba:
 Barroco + trap + black metal + ópera + gregoriano + jazz + industrial.
 Esto resulta extremadamente complejo en un medio analógico sin romperlo.
 
-### Deep Remixability
+### Remezclabilidad profunda
 El modelo no mezcla canciones, mezcla propiedades internas de medios distintos:
 timbre, textura, dinámica, articulación, registro, reverberación, etc.
 
