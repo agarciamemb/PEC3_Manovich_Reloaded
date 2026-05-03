@@ -170,9 +170,9 @@ Las capturas están organizadas así:
 
 Las capturas se encuentran en:
 
-<pre>/evidencias/suno_captura_antes.png
-/evidencias/suno_captura_durante.png
-/evidencias/suno_captura_despues.png</pre>
+<pre>- [Captura antes de generar](./suno_captura_antes.png)
+- [Captura durante la generación](./suno_captura_durante.png)
+- [Captura después de generar](./suno_captura_despues.png)</pre>
 
 ## 6. Análisis del resultado
 
