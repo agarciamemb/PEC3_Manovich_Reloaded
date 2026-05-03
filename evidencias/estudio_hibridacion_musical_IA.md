@@ -203,7 +203,7 @@ Esto es clave: la IA no ejecuta, interpreta.
 
 La versión final de la pieza generada con Suno puede escucharse aquí:
 
-[🔊 Descargar versión final](./jan_-_ascension_barroca_hibrida.mp3)
+🔊 [Descargar versión final](./jan_-_ascension_barroca_hibrida.mp3)
 
 El archivo se encuentra en la carpeta `/evidencias/` del repositorio.
 
