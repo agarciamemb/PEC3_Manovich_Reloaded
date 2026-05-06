@@ -6,6 +6,9 @@ Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos
 - Autor: Alejandro García Membiela
 - Fecha: Mayo 2026
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Licencia:** Este trabajo se publica bajo Creative Commons CC BY-SA 4.0.
+
 ## Introducción
 
 La hibridación, según Manovich, aparece cuando las técnicas, lógicas y estructuras de distintos medios se fusionan para dar lugar a una nueva gestalt mediática. No se trata de superponer capas —como ocurre en la multimedia— ni de transformar un medio en otro —como en la remediación—, sino de crear un sistema donde las propiedades de medios previamente separados se integran en un único entorno informático. En palabras de Manovich, es el momento en que «las interfaces y técnicas exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías antes imposibles».
