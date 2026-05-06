@@ -43,19 +43,7 @@ Aquí la hibridación no es estética, sino estructural: los medios se mezclan a
 
 La transcodificación afecta al propio rol del creador. El músico deja de ser ejecutante para convertirse en diseñador de instrucciones. La autoría se hibrida: parte humana, parte algorítmica. El software no solo «toma el mando», sino que redefine qué significa crear música en la cultura digital contemporánea. Por todo ello, Suno AI es un caso paradigmático de hibridación moderna y un candidato evidente para una hipotética nueva edición de El software toma el mando.
 
-## Evidencias complementarias
-
-Además del análisis teórico de Suno AI, se ha generado una evidencia práctica que permite observar de forma directa cómo el sistema opera cuando se le exige una hibridación extrema de estilos musicales. Esta evidencia incluye:
-
-- El prompt completo utilizado.
-- Las iteraciones del proceso.
-- La letra diseñada como artefacto híbrido.
-- Las capturas del pipeline generativo.
-- El archivo de audio final.
-
-Todo el material se encuentra documentado en:
-
-🔗 [/evidencias/estudio_hibridacion_musical_IA.md](./evidencias/estudio_hibridacion_musical_IA.md)
+---
 
 # CASO 2 — SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
 
@@ -87,6 +75,39 @@ Siguiendo a Gea (2022), SoundCloud opera bajo una lógica de inteligencia colect
 ## 5. Conclusión: un caso paradigmático para una nueva edición de Manovich
 
 SoundCloud demuestra que la hibridación no es un fenómeno estético, sino estructural. El audio, la red social y la analítica algorítmica se fusionan en un medio nuevo donde la escucha, la publicación y la interacción forman un mismo proceso. Por su capacidad para integrar capas culturales y capas informáticas, SoundCloud sería un candidato evidente para una hipotética nueva edición de El software toma el mando.
+
+---
+
+## Evidencias complementarias
+
+A continuación se incluyen las evidencias prácticas asociadas a los dos casos analizados.
+Todo el material se encuentra en la carpeta `/evidencias/` del repositorio.
+
+### Evidencias del Caso 1 — Suno AI
+
+El análisis completo del experimento de hibridación musical con IA, incluyendo diseño del prompt, iteraciones, letra final, capturas y archivo de audio, puede consultarse en:
+
+**[estudio_hibridacion_musical_IA.md](./evidencias/estudio_hibridacion_musical_IA.md)**
+
+Archivos asociados:
+
+- [suno_captura_antes.png](./evidencias/suno_captura_antes.png)
+- [suno_captura_durante.png](./evidencias/suno_captura_durante.png)
+- [suno_captura_despues.png](./evidencias/suno_captura_despues.png)
+- [jan_-_ascension_barroca_hibrida.mp3](./evidencias/jan_-_ascension_barroca_hibrida.mp3)
+
+### Evidencias del Caso 2 — SoundCloud
+
+Capturas que muestran la hibridación socio‑sonora, la modularidad del medio y la intervención algorítmica en la navegación:
+
+- **Forma de onda con comentarios**
+  [soundcloud_waveform.png](./evidencias/soundcloud_waveform.png)
+
+- **Metadatos, participación social y fans**
+  [soundcloud_metadatos.png](./evidencias/soundcloud_metadatos.png)
+
+- **Recomendaciones algorítmicas (RELATED TRACKS)**
+  [soundcloud_recomendaciones.png](./evidencias/soundcloud_recomendaciones.png)
 
 ---
 
