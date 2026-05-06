@@ -12,7 +12,7 @@ Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos
 
 ## Introducción
 
-La hibridación, según Manovich, aparece cuando las técnicas, lógicas y estructuras de distintos medios se fusionan para dar lugar a una nueva gestalt mediática. No se trata de superponer capas —como ocurre en la multimedia— ni de transformar un medio en otro —como en la remediación—, sino de crear un sistema donde las propiedades de medios previamente separados se integran en un único entorno informático. En palabras de Manovich, es el momento en que «las interfaces y técnicas (Manovich, 2013) exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías antes imposibles».
+La hibridación, según Manovich, aparece cuando las técnicas, lógicas y estructuras de distintos medios se fusionan para dar lugar a una nueva gestalt mediática. No se trata de superponer capas —como ocurre en la multimedia— ni de transformar un medio en otro —como en la remediación—, sino de crear un sistema donde las propiedades de medios previamente separados se integran en un único entorno informático. En palabras de Manovich, es el momento en que «las interfaces y técnicas exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías antes imposibles» (Manovich, 2013).
 
 Con estas «gafas de Manovich», este ensayo analiza dos casos contemporáneos que no aparecen en sus libros, pero que encajan plenamente en su concepto de hibridación: **Suno AI**, como ejemplo de hibridación algorítmica en la producción musical, y **SoundCloud**, como caso de hibridación sociosonora en la circulación, participación y recomendación de contenido. Ambos casos permiten observar cómo el software reconfigura prácticas culturales tradicionales —componer, escuchar, compartir— y cómo los principios de los nuevos medios (representación numérica, modularidad, automatización, variabilidad y transcodificación cultural) se manifiestan en sistemas actuales.
 
@@ -20,9 +20,9 @@ A partir de estos dos ejemplos, el documento explora cómo la hibridación se ha
 
 A continuación se desarrollan los dos casos seleccionados, aplicando los principios de los nuevos medios y el concepto de hibridación propuesto por Manovich.
 
-# Caso 1: Suno AI — Hibridación Algorítmica y Metacreación
+# Caso 1 – Suno AI: Hibridación algorítmica y metacreación
 
-Para analizar Suno AI sin caer en reduccionismos técnicos, es necesario partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en yuxtaponer capas multimedia (Adell, 2024), sino en la fusión profunda de técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», Suno no puede entenderse como una simple herramienta de IA: es un medio híbrido donde el lenguaje natural, la síntesis sonora y la composición musical convergen en un entorno algorítmico que reconfigura la práctica creativa.
+Para analizar Suno AI sin caer en reduccionismos técnicos, es necesario partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en yuxtaponer capas multimedia, sino en la fusión profunda de técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», Suno no puede entenderse como una simple herramienta de IA: es un medio híbrido donde el lenguaje natural, la síntesis sonora y la composición musical convergen en un entorno algorítmico que reconfigura la práctica creativa.
 
 ## 1. Representación numérica y transcodificación del lenguaje
 
@@ -43,9 +43,9 @@ Cada módulo actúa como una unidad autónoma dentro del *pipeline* generativo (
 
 El principio de automatización es evidente: Suno asume tareas que antes requerían músicos, productores y técnicos. Pero lo decisivo es la variabilidad. Cada prompt genera múltiples versiones posibles, y cada regeneración altera parámetros melódicos, tímbricos o rítmicos. No existe una «obra definitiva», sino un espacio de posibilidades donde el usuario selecciona, itera y refina. La creación se convierte en un proceso de curaduría algorítmica: el usuario no compone en sentido clásico, sino que navega entre variantes generadas por el sistema (Manovich, 2013).
 
-##  4. Remezclabilidad profunda: la pérdida de fronteras
+## 4. Remezclabilidad profunda: la pérdida de fronteras
 
-Suno encarna la «Remezclabilidad profunda» descrita por Manovich:
+Suno encarna la «Remezclabilidad profunda» descrita por Manovich (2013):
 
 - Una interfaz textual —propia del procesamiento de palabras— se convierte en un estudio de grabación virtual.
 - Estilos incompatibles en el mundo físico (jazz + metal, ópera + trap) se combinan mediante cálculo matemático.
@@ -59,7 +59,7 @@ La transcodificación afecta al propio rol del creador. El músico deja de ser e
 
 ---
 
-# Caso 2: SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
+# Caso 2 – SoundCloud: Hibridación sociosonora y redes de datos
 
 Si Suno AI representa la hibridación en la producción musical, SoundCloud ejemplifica la hibridación en la circulación, la escucha y la participación colectiva. Para analizarlo sin caer en simplificaciones, conviene partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en superponer capas multimedia, sino en fusionar técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», SoundCloud no es un repositorio de audio: es un metamedio donde el sonido, la interacción social y los datos se integran en un único entorno informático.
 
@@ -84,7 +84,7 @@ El principio de automatización aparece en las recomendaciones, los feeds person
 
 ## 4. Transcodificación cultural: del mixtape al ecosistema colaborativo
 
-Siguiendo a Gea (Gea, 2022), SoundCloud opera bajo una lógica de inteligencia colectiva. La plataforma no solo almacena sonido: almacena comportamientos. La transcodificación cultural se hace evidente cuando prácticas analógicas —la maqueta, el mixtape, el intercambio de demos— se transforman en dinámicas digitales: compartir, comentar, remezclar, versionar. Como sugiere McMillan (McMillan, 2012), SoundCloud funciona como un «GitHub de la música»: los tracks pueden ser forkeados simbólicamente mediante reposts, remixes o comentarios que alteran su significado social.
+Siguiendo a Gea (2022), SoundCloud opera bajo una lógica de inteligencia colectiva. La plataforma no solo almacena sonido: almacena comportamientos. La transcodificación cultural se hace evidente cuando prácticas analógicas —la maqueta, el mixtape, el intercambio de demos— se transforman en dinámicas digitales: compartir, comentar, remezclar, versionar. Como sugiere McMillan (2012), SoundCloud funciona como un «GitHub de la música»: los tracks pueden ser forkeados simbólicamente mediante reposts, remixes o comentarios que alteran su significado social.
 
 ## 5. Conclusión: un caso paradigmático para una nueva edición de Manovich
 
@@ -130,7 +130,7 @@ Archivos asociados:
 
 ### Evidencias del Caso 2 — SoundCloud
 
-Capturas que muestran la hibridación socio‑sonora, la modularidad del medio y la intervención algorítmica en la navegación:
+Capturas que muestran la hibridación sociosonora, la modularidad del medio y la intervención algorítmica en la navegación:
 
 - **Forma de onda con comentarios**: [soundcloud_waveform.png](./evidencias/soundcloud_waveform.png)  
   Ejemplo de interfaz híbrida donde el audio se combina con comentarios anclados en puntos temporales.
@@ -154,4 +154,4 @@ Capturas que muestran la hibridación socio‑sonora, la modularidad del medio y
 
 ## Declaración de uso de IA
 
-Este trabajo ha utilizado herramientas de IA generativa únicamente para apoyo en la redacción, revisión y estructuración del texto, siguiendo las directrices de la UOC para el uso responsable de IA.
+Este trabajo ha utilizado herramientas de IA generativa únicamente como apoyo en tareas de redacción, revisión estilística y estructuración del texto. Las ideas, la selección de casos, el análisis teórico y las decisiones finales sobre el contenido corresponden exclusivamente al autor. El uso de IA se ha realizado siguiendo las directrices de la UOC para el uso responsable de estas herramientas.
