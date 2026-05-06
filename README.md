@@ -6,6 +6,16 @@ Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos
 - Autor: Alejandro García Membiela
 - Fecha: Mayo 2026
 
+## Introducción
+
+La hibridación, según Manovich, aparece cuando las técnicas, lógicas y estructuras de distintos medios se fusionan para dar lugar a una nueva gestalt mediática. No se trata de superponer capas —como ocurre en la multimedia— ni de transformar un medio en otro —como en la remediación—, sino de crear un sistema donde las propiedades de medios previamente separados se integran en un único entorno informático. En palabras de Manovich, es el momento en que «las interfaces y técnicas exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías antes imposibles».
+
+Con estas «gafas de Manovich», este ensayo analiza dos casos contemporáneos que no aparecen en sus libros, pero que encajan plenamente en su concepto de hibridación: **Suno AI**, como ejemplo de hibridación algorítmica en la producción musical, y **SoundCloud**, como caso de hibridación sociosonora en la circulación, participación y recomendación de contenido. Ambos casos permiten observar cómo el software reconfigura prácticas culturales tradicionales —componer, escuchar, compartir— y cómo los principios de los nuevos medios (representación numérica, modularidad, automatización, variabilidad y transcodificación cultural) se manifiestan en sistemas actuales.
+
+A partir de estos dos ejemplos, el documento explora cómo la hibridación se ha convertido en una característica estructural de la cultura digital contemporánea y cómo estos medios podrían formar parte de una hipotética nueva edición de *El software toma el mando*.
+
+---
+
 # Caso 1: Suno AI — Hibridación Algorítmica y Metacreación
 
 Para analizar Suno AI sin caer en reduccionismos técnicos, es necesario partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en yuxtaponer capas multimedia, sino en la fusión profunda de técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», Suno no puede entenderse como una simple herramienta de IA: es un medio híbrido donde el lenguaje natural, la síntesis sonora y la composición musical convergen en un entorno algorítmico que reconfigura la práctica creativa.
@@ -45,7 +55,7 @@ La transcodificación afecta al propio rol del creador. El músico deja de ser e
 
 ---
 
-# CASO 2 — SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
+# Caso 2 — SoundCloud: Hibridación Socio‑Sonora y Redes de Datos
 
 Si Suno AI representa la hibridación en la producción musical, SoundCloud ejemplifica la hibridación en la circulación, la escucha y la participación colectiva. Para analizarlo sin caer en simplificaciones, conviene partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en superponer capas multimedia, sino en fusionar técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», SoundCloud no es un repositorio de audio: es un metamedio donde el sonido, la interacción social y los datos se integran en un único entorno informático.
 
