@@ -91,23 +91,18 @@ El análisis completo del experimento de hibridación musical con IA, incluyendo
 
 Archivos asociados:
 
-- [suno_captura_antes.png](./evidencias/suno_captura_antes.png)
-- [suno_captura_durante.png](./evidencias/suno_captura_durante.png)
-- [suno_captura_despues.png](./evidencias/suno_captura_despues.png)
-- [jan_-_ascension_barroca_hibrida.mp3](./evidencias/jan_-_ascension_barroca_hibrida.mp3)
+- **Proceso de creación (antes):** [suno_captura_antes.png](./evidencias/suno_captura_antes.png)
+- **Proceso de creación (durante):** [suno_captura_durante.png](./evidencias/suno_captura_durante.png)
+- **Proceso de creación (después):** [suno_captura_despues.png](./evidencias/suno_captura_despues.png)
+- **Resultado final (MP3):** [jan_-_ascension_barroca_hibrida.mp3](./evidencias/jan_-_ascension_barroca_hibrida.mp3)
 
 ### Evidencias del Caso 2 — SoundCloud
 
 Capturas que muestran la hibridación socio‑sonora, la modularidad del medio y la intervención algorítmica en la navegación:
 
-- **Forma de onda con comentarios**
-  [soundcloud_waveform.png](./evidencias/soundcloud_waveform.png)
-
-- **Metadatos, participación social y fans**
-  [soundcloud_metadatos.png](./evidencias/soundcloud_metadatos.png)
-
-- **Recomendaciones algorítmicas (RELATED TRACKS)**
-  [soundcloud_recomendaciones.png](./evidencias/soundcloud_recomendaciones.png)
+- **Forma de onda con comentarios**: [soundcloud_waveform.png](./evidencias/soundcloud_waveform.png)
+- **Metadatos, participación social y fans**: [soundcloud_metadatos.png](./evidencias/soundcloud_metadatos.png)
+- **Recomendaciones algorítmicas (RELATED TRACKS)**: [soundcloud_recomendaciones.png](./evidencias/soundcloud_recomendaciones.png)
 
 ---
 
