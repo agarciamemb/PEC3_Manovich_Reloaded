@@ -90,7 +90,7 @@ El principio de automatización aparece en las recomendaciones, los feeds person
 
 ## 4. Transcodificación cultural: del mixtape al ecosistema colaborativo
 
-Siguiendo a Gea (2022), SoundCloud opera bajo una lógica de inteligencia colectiva. La plataforma no solo almacena sonido: almacena comportamientos. La transcodificación cultural se hace evidente cuando prácticas analógicas —la maqueta, el mixtape, el intercambio de demos— se transforman en dinámicas digitales: compartir, comentar, remezclar, versionar. Como sugiere McMillan (2012), SoundCloud funciona como un «GitHub de la música»: los tracks pueden ser forkeados simbólicamente mediante reposts, remixes o comentarios que alteran su significado social.
+Siguiendo a Gea (2022), SoundCloud opera bajo una lógica de inteligencia colectiva. La plataforma no solo almacena sonido: almacena comportamientos. La transcodificación cultural se hace evidente cuando prácticas analógicas —la maqueta, el mixtape, el intercambio de demos— se transforman en dinámicas digitales: compartir, comentar, remezclar, versionar. Inspirado en la lógica de los repositorios de software descrita por McMillan (2012), SoundCloud puede entenderse como una especie de «GitHub de la música»: los audios pueden ser *forkeados* simbólicamente mediante reposts, remixes o comentarios que alteran su significado social.
 
 ## 5. Conclusión: un caso paradigmático para una nueva edición de Manovich
 
