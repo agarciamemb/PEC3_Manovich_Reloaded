@@ -28,6 +28,12 @@ El análisis de los dos casos se realiza aplicando los principios de los nuevos 
 
 Para analizar Suno AI sin caer en reduccionismos técnicos, es necesario partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en yuxtaponer capas multimedia, sino en la fusión profunda de técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», Suno no puede entenderse como una simple herramienta de IA: es un medio híbrido donde el lenguaje natural, la síntesis sonora y la composición musical convergen en un entorno algorítmico que reconfigura la práctica creativa.
 
+<p align="center">
+  <img src="./evidencias/suno_captura_despues.png" width="80%" alt="Suno - Después de la creación">
+  <br>
+  <em>Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</em>
+</p>
+
 ## 1. Representación numérica y transcodificación del lenguaje
 
 En Suno, el texto no es un metadato ni un descriptor: es el origen estructural del sonido. El prompt del usuario —capa cultural— se transcodifica en vectores numéricos que dictan la morfología de la onda sonora —capa informática—. Esta traducción directa ejemplifica el principio de representación numérica (Manovich, 2013) y, al mismo tiempo, la transcodificación cultural: el saber hacer musical se desplaza desde la técnica instrumental hacia la capacidad de formular instrucciones precisas al algoritmo. No cambia solo el soporte, sino el comportamiento del creador.
@@ -63,17 +69,11 @@ La transcodificación afecta al propio rol del creador. El músico deja de ser e
 
 Esta mutación del rol autoral no es solo técnica, sino también cultural: desplaza el prestigio desde la destreza instrumental hacia la capacidad de diseñar prompts eficaces y de interpretar críticamente los resultados. Desde la perspectiva de Manovich (2013), Suno ejemplifica cómo la lógica informática impregna la capa cultural: el músico adopta prácticas propias del diseño de software (iterar, depurar, versionar) aplicadas a la creación sonora. En este sentido, Suno no solo genera canciones, sino que introduce una nueva alfabetización mediática basada en la escritura algorítmica de la música.
 
-<p align="center">
-  <img src="./evidencias/suno_captura_despues.png" width="80%" alt="Suno - Después de la creación">
-  <br>
-  <em>Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</em>
-</p>
-
 ---
 
 # Caso 2 – SoundCloud: Hibridación sociosonora y redes de datos
 
-Si Suno AI representa la hibridación en la producción musical, SoundCloud ejemplifica la hibridación en la circulación, la escucha y la participación colectiva (Manovich, 2013). Para analizarlo sin caer en simplificaciones, conviene partir de una definición explícita de hibridación. Como señala Adell (2024), la hibridación no consiste en superponer capas multimedia, sino en fusionar técnicas y propiedades de distintos medios para generar una gramática nueva. Con estas «gafas de Manovich», SoundCloud no es un repositorio de audio: es un metamedio donde el sonido, la interacción social y los datos se integran en un único entorno informático.
+Mientras que Suno AI opera en la génesis del objeto sonoro, SoundCloud despliega la hibridación en la dimensión del consumo y la participación colectiva. Para entender su complejidad, debemos alejarnos de la idea de SoundCloud como un simple contenedor de archivos; siguiendo la lógica de la remezclabilidad profunda (Manovich, 2013), la plataforma funde la pureza del audio con la gramática de las redes sociales. No estamos ante una superposición de funciones, sino ante lo que Adell (2024) define como una integración de propiedades donde la retroalimentación social se convierte en un metadato inseparable de la propia onda de sonido. Bajo este prisma, SoundCloud se manifiesta como un metamedio híbrido donde la escucha deja de ser un acto pasivo para integrarse en un flujo de datos dinámico y algorítmico.
 
 ## 1. Representación numérica: la forma de onda como interfaz social
 
