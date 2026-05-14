@@ -63,6 +63,12 @@ La transcodificación afecta al propio rol del creador. El músico deja de ser e
 
 Esta mutación del rol autoral no es solo técnica, sino también cultural: desplaza el prestigio desde la destreza instrumental hacia la capacidad de diseñar prompts eficaces y de interpretar críticamente los resultados. Desde la perspectiva de Manovich (2013), Suno ejemplifica cómo la lógica informática impregna la capa cultural: el músico adopta prácticas propias del diseño de software (iterar, depurar, versionar) aplicadas a la creación sonora. En este sentido, Suno no solo genera canciones, sino que introduce una nueva alfabetización mediática basada en la escritura algorítmica de la música.
 
+<p align="center">
+  <img src="./evidencias/suno_captura_despues.png" width="90%" alt="Suno - Después de la creación">
+  <br>
+  <em>Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</em>
+</p>
+
 ---
 
 # Caso 2 – SoundCloud: Hibridación sociosonora y redes de datos
