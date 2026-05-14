@@ -27,25 +27,30 @@ La letra, por su parte, está escrita para recorrer la historia de la música de
 Aquí es donde realmente se ve cómo piensa el modelo.
 
 **Iteración 1 — Prompt simple**
+
 Resultado: trap dominante, poca diferenciación vocal.
 Conclusión: Suno prioriza el primer estilo mencionado y tiende a homogeneizar.
 
 **Iteración 2 — Añadir tipos de voz**
+
 Incluyo Opera Soprano Voice, Black Metal Growls, etc.
 Resultado: mejora la separación vocal.
 Conclusión: Suno responde mejor a instrucciones explícitas dentro de corchetes.
 
 **Iteración 3 — Añadir estilos dentro de los corchetes**
+
 Empiezo a añadir Gregorian Chant, Jazz, Industrial Noise, Symphonic Metal, etc.
 Resultado: mayor riqueza tímbrica y transiciones más claras.
 Conclusión: los corchetes funcionan como “escenas musicales”.
 
 **Iteración 4 — Reescritura completa de la letra**
+
 Amplío la letra para incluir referencias históricas (Grecia, Roma, Bizancio, Renacimiento, barroco, clasicismo, romanticismo, era digital).
 Resultado: el modelo integra mejor los estilos cuando la letra los contextualiza.
 Conclusión: la semántica importa más de lo que parece.
 
 **Iteración 5 — Versión final**
+
 Mezcla coherente de trap, barroco, black metal, ópera, gregoriano, jazz, industrial y techno.
 Conclusión: el modelo es capaz de sostener una hibridación extrema si la estructura está bien definida.
 
