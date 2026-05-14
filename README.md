@@ -146,7 +146,7 @@ Archivos asociados:
 - **Proceso de creación (después):** [suno_captura_despues.png](./evidencias/suno_captura_despues.png)  
   Resultado final del proceso generativo antes de la exportación del audio.
 
-- **Resultado final (MP3):** [jan_-_ascension_barroca_hibrida.mp3](./evidencias/jan_-_ascension_barroca_hibrida.mp3)  
+- **Resultado final (MP3):** 🔊 [Escuchar en Google Drive](https://drive.google.com/file/d/1ijgCvAphaxz7MbjL8y91Mpj_ZGStB5Md/view?usp=drive_link)
   Archivo de audio generado tras la hibridación algorítmica de estilos.
 
 
