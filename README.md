@@ -149,10 +149,6 @@ Archivos asociados:
 - **Resultado final (MP3):** [Escuchar en Google Drive](https://drive.google.com/file/d/1ijgCvAphaxz7MbjL8y91Mpj_ZGStB5Md/view?usp=drive_link)  
   Archivo de audio generado tras la hibridación algorítmica de estilos.
 
-- **Resultado final (MP3):** 🔊 [Escuchar en Google Drive](https://drive.google.com/file/d/1ijgCvAphaxz7MbjL8y91Mpj_ZGStB5Md/view?usp=drive_link)
-  Archivo de audio generado tras la hibridación algorítmica de estilos.
-
-
 ### Evidencias del Caso 2 — SoundCloud
 
 Capturas que muestran la hibridación sociosonora, la modularidad del medio y la intervención algorítmica en la navegación:
