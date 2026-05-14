@@ -64,7 +64,7 @@ La transcodificación afecta al propio rol del creador. El músico deja de ser e
 Esta mutación del rol autoral no es solo técnica, sino también cultural: desplaza el prestigio desde la destreza instrumental hacia la capacidad de diseñar prompts eficaces y de interpretar críticamente los resultados. Desde la perspectiva de Manovich (2013), Suno ejemplifica cómo la lógica informática impregna la capa cultural: el músico adopta prácticas propias del diseño de software (iterar, depurar, versionar) aplicadas a la creación sonora. En este sentido, Suno no solo genera canciones, sino que introduce una nueva alfabetización mediática basada en la escritura algorítmica de la música.
 
 <p align="center">
-  <img src="./evidencias/suno_captura_despues.png" width="90%" alt="Suno - Después de la creación">
+  <img src="./evidencias/suno_captura_despues.png" width="80%" alt="Suno - Después de la creación">
   <br>
   <em>Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</em>
 </p>
@@ -78,6 +78,12 @@ Si Suno AI representa la hibridación en la producción musical, SoundCloud ejem
 ## 1. Representación numérica: la forma de onda como interfaz social
 
 La forma de onda de SoundCloud no es una mera visualización técnica heredada del osciloscopio. Es una interfaz híbrida donde el audio —flujo temporal— se combina con el texto —comentarios anclados en puntos concretos—. Esta operación encarna el principio de representación numérica: el sonido se convierte en datos manipulables, y esos datos se abren a la intervención social. La escucha deja de ser un acto privado para convertirse en una experiencia colectiva mediada por la capa informática (Manovich, 2013).
+
+<p align="center">
+  <img src="./evidencias/soundcloud_waveform.png" width="80%" alt="SoundCloud - Waveform">
+  <br>
+  <em>2: La forma de onda como interfaz social. Los comentarios anclados demuestran la hibridación entre el flujo temporal del audio y la capa de datos social.</em>
+</p>
 
 ## 2. Modularidad: audio, metadatos y comunidad como bloques recombinables
 
