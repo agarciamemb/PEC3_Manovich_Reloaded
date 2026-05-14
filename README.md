@@ -82,7 +82,7 @@ La forma de onda de SoundCloud no es una mera visualización técnica heredada d
 <p align="center">
   <img src="./evidencias/soundcloud_waveform.png" width="80%" alt="SoundCloud - Waveform">
   <br>
-  <em>2: La forma de onda como interfaz social. Los comentarios anclados demuestran la hibridación entre el flujo temporal del audio y la capa de datos social.</em>
+  <small><em>Figura 2: La forma de onda como interfaz social. Los comentarios anclados demuestran la hibridación entre el flujo temporal del audio y la capa de datos social.</em></small>
 </p>
 
 ## 2. Modularidad: audio, metadatos y comunidad como bloques recombinables
