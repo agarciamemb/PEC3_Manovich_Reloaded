@@ -66,7 +66,7 @@ Esta mutación del rol autoral no es solo técnica, sino también cultural: desp
 <p align="center">
   <img src="./evidencias/suno_captura_despues.png" width="80%" alt="Suno - Después de la creación">
   <br>
-  <small>Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</small>
+  <em style="0.5em">Figura 1: Interfaz de generación en Suno AI. Se observa la transcodificación de instrucciones textuales en una estructura sonora compleja.</em>
 </p>
 
 ---
