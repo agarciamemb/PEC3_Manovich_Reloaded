@@ -209,6 +209,7 @@ Esto es clave: la IA no ejecuta, interpreta.
 La versión final de la pieza generada con Suno puede escucharse aquí:
 
 🔊 [Descargar versión final](./Jan_-_Ascensión_Barroca_Híbrida.mp3)
+
 🔊 [Escuchar en Google Drive](https://drive.google.com/file/d/1ijgCvAphaxz7MbjL8y91Mpj_ZGStB5Md/view?usp=drive_link) — *Permite la escucha inmediata sin descarga.*
 
 El archivo se encuentra en la carpeta `/evidencias/` del repositorio.
